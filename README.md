@@ -34,3 +34,7 @@ wsl --install
 ```
 4. Install Docker Desktop with the command: `WinGet install Docker.DockerDesktop`
     * You may need to type `Yes` to agree to the Microsoft Store terms of service.
+
+## Takedown
+
+Instructions for the takedown of Docker and its related components are available [here](docker-clean.md).
