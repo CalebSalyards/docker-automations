@@ -8,6 +8,8 @@ Docker is really cool, but if you aren't using it, there's a lot of resources yo
 ## Method 1 - Batch File
 The following code block can be run as a batch file to automatically uninstall and clean up your Docker 
 installation. Just follow the prompts and read carefully.
+
+You can also download this code as a batch file [here](https://github.com/CalebSalyards/docker-automations/releases/latest)
 ```bat
 @echo off
 set appname=BYU-I CIT %_fBCyan%Docker%_RESET% Cleanup Script
